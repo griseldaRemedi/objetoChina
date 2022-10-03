@@ -1,0 +1,32 @@
+input{
+    margin: 0px 5px;
+    border-radius: 5px;
+}
+label{
+    margin: 0px 10px;
+    width: 25%;
+    display: inline-block;
+}
+div{
+    border-radius: 15px;
+    padding: 10px;
+}
+#general{
+    display: flex;
+}
+#respuesta{
+    background-color: #D53ABA;
+    color: cornsilk;
+    min-height: 250px;  
+    min-width: 350px;
+    margin: 0px 20px;
+}
+#ejercicio{
+    background-image: url('imagenes/china.jpg');
+    background-color: #1B49AB;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    //min-height: 150px;
+    min-width: 400px;
+}
